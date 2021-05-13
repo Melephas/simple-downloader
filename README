@@ -25,21 +25,24 @@ A simple utility for downloading files from the command line
 ```
 
 3) Build:
+
 ```~# make```
 
 4) Run tests:
+
 ```~# make check```
 
 5) Install:
+
 ```~# sudo make install```
 
 
 
-TODO
+## TODO
 
 * Finalise libsd.h module interface
 * Write tests
 
-Authors
+## Authors
 
 * ```Sam Miller - <contact.melephas@gmail.com>```
