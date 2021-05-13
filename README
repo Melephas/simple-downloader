@@ -1,21 +1,20 @@
 
 # Simple downloader
------------------
 
 A simple utility for downloading files from the command line
 
 
 ## Requirements
-------------
 
 * Automake
 * Autoconf
 * Libtool
 
 ## Installation Instructions
-----------------------------------------------
 
 ### Git method
+---
+
 1) Clone the repository
 
 2) Set up the build system:
@@ -37,12 +36,10 @@ A simple utility for downloading files from the command line
 
 
 TODO
-----
 
 * Finalise libsd.h module interface
 * Write tests
 
-Author
-------
+Authors
 
-Sam Miller <contact.melephas@gmail.com>
+* ```Sam Miller - <contact.melephas@gmail.com>```
